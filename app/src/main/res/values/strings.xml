@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ASM_HT_NguyenDinhTrung_PK02294</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Login_fragment">LOGIN</string>
+    <string name="SignUp_fragment">SIGNUP</string>
+
+</resources>
