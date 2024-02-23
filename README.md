@@ -1,6 +1,6 @@
-# This is a basic student management application that uses SQL to log in and add, edit, and delete data
+# This is a basic student management application that uses SQL to log in and add, edit, and delete data: 📝
 
-# App summary:
+# App summary 📱:
 ![Student_FPT_SQL](https://github.com/dinhtrungndt/AndroidStudio_Basic_SQL/assets/127390593/a888643b-9922-4e71-ba57-65f75687bc78)
 
 # H_Login:
